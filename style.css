@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #E29E85;
+}
+.container {
+    text-align: center;
+    margin-top: 3vw;
+}
+h2{
+    font-size: 3vw;
+    color: crimson;
+}
+#number {
+    width: 10vw;
+    background-color: white;
+}
+#check {
+    background-color: blue;
+    color: white;
+}
+
+p {
+    color: red;
+    margin-left: -2vw;
+}
+#result {
+    position: absolute;
+    left: 59vw;
+    top: 26vw;
+    font-size: 3vw;
+}
+footer {
+    position: absolute;
+    bottom: 0vw;
+    background-color: white;
+    width: 100%;
+    height: 5vw;
+    text-align: center;
+    padding-top: 1.5vw;
+    font-size: 1vw;
+}
