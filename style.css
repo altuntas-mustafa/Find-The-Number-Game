@@ -11,12 +11,16 @@ body{
     text-align: center;
     margin-top: 3vw;
 }
+#info {
+    font-size: 1.5vw;
+}
 h2{
     font-size: 3vw;
     color: crimson;
 }
 #number {
     width: 10vw;
+    height: 2vw;
     background-color: white;
 }
 #check {
@@ -26,12 +30,12 @@ h2{
 
 p {
     color: red;
-    margin-left: -2vw;
+    font-size: 1.5vw;
 }
 #result {
     position: absolute;
     left: 59vw;
-    top: 26vw;
+    top: 16vw;
     font-size: 3vw;
 }
 footer {
